@@ -6,6 +6,7 @@ h1{
 }
 .header-color{
     color: #121235f0;
+    font-weight: 800;
 }
 .text-highlight{
     color: salmon;
@@ -25,4 +26,28 @@ h1{
     color: white;
     padding: 10px 35px;
     font-weight: 600;
+}
+section{
+    height: 500px;
+    padding-bottom: 310px;
+}
+.single-area img{
+    width: 100%;
+}
+.single-area{
+    float: left;
+    width: 25%;
+    display: block;
+    margin-left: 80px;
+    padding: 20px;;
+    border-radius: 20px;
+    background: white;
+    box-shadow: 10px 10px 40px #80808042;
+    margin-top: 75px;
+}
+#header-alinghment{
+    text-align: center;
+}
+.bottom-area{
+    background-color: #a9a9a921;
 }
